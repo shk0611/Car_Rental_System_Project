@@ -46,13 +46,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](project_images/manageVehicles.png)
 
 The Car Rental Booking and Management System is a comprehensive application designed to streamline the management of car rentals, bookings, clients, and insurance options. This system is built using JavaFX and CSS for the user interface and MySQL for the database backend, providing a robust and scalable solution.
 
 #### Key Features:
 
- <span style="font-size: 12px; font-weight: bold;">User Interface (UI) Applications:</span>
+ <span style="font-size: 1em; font-weight: bold;">User Interface (UI) Applications:</span>
 <ul>
   <li>Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.</li>
 </ul>
@@ -68,12 +68,17 @@ The Car Rental Booking and Management System is a comprehensive application desi
   <li>Display details with dynamic updates.</li>
 </ul>
 
-<span style="font-size: 10px; font-weight: bold;">Thread Safety and Preventing Race Conditions:</span>
+<span style="font-size: 1em; font-weight: bold;">Signup/Login mechansim</span>
+<ul>
+  <li>Validates users with their credentials</li>
+</ul>
+
+<span style="font-size: 1em; font-weight: bold;">Thread Safety and Preventing Race Conditions:</span>
 <ul>
   <li>Synchronized methods, ExecutorService, Transaction management, Scheduled tasks.</li>
 </ul>
 
-<span style="font-size: 15px; font-weight: bold;">Design Patterns:</span>
+<span style="font-size: 1em; font-weight: bold;">Design Patterns:</span>
 <ul>
   <li>MVC, DAO, Strategy.</li>
 </ul>
