@@ -138,13 +138,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- REFLECTION -->
 ## Reflection
 
-Context and Motivation
+#### Context and Motivation
 This Car Rental Booking and Management System was a month-long personal project aimed at refining my Java skills. I undertook this project to deepen my understanding of software development and user experience (UX) design principles. It provided an excellent opportunity to expand my knowledge in both technical and UX aspects.
 
-Project Goals
+#### Project Goals
 The goal was to build a comprehensive system for managing car rentals, bookings, clients, and insurance options. I aimed to create a robust application using JavaFX for the user interface and MySQL for the database backend, ensuring a seamless and user-friendly experience.
 
-Challenges and Learning Experience
+#### Challenges and Learning Experience
 A major challenge was ensuring thread safety and preventing race conditions, requiring extensive research into synchronization mechanisms for managing concurrent operations. This was crucial due to the simultaneous interactions by multiple users, necessitating data integrity. Addressing these issues enhanced my understanding of Java concurrency and improved my problem-solving skills.
 
 
