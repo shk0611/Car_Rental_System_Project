@@ -21,7 +21,7 @@
   <p align="center">
     A comprehensive system for managing car rentals, bookings, clients, and insurance options.
     
-    ·
+
    
   </p>
 </div>
