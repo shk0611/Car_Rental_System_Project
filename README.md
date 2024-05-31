@@ -48,7 +48,6 @@
 
 The Car Rental Booking and Management System is a comprehensive application designed to streamline the management of car rentals, bookings, clients, and insurance options. This system is built using JavaFX and CSS for the user interface and MySQL for the database backend, providing a robust and scalable solution.
 
-<br><br>
 
 [![find Vehicle Page][findVehicles]](project_images/findVehicles.png)
 <br><br>
@@ -136,20 +135,31 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Integrate additional payment methods
 - [ ] Expand to client-web server
 
+<!-- REFLECTION -->
+## Reflection
+
+Context and Motivation
+This Car Rental Booking and Management System was a month-long personal project aimed at refining my Java skills. I undertook this project to deepen my understanding of software development and user experience (UX) design principles. It provided an excellent opportunity to expand my knowledge in both technical and UX aspects.
+
+Project Goals
+The goal was to build a comprehensive system for managing car rentals, bookings, clients, and insurance options. I aimed to create a robust application using JavaFX for the user interface and MySQL for the database backend, ensuring a seamless and user-friendly experience.
+
+Challenges and Learning Experience
+A major challenge was ensuring thread safety and preventing race conditions, requiring extensive research into synchronization mechanisms for managing concurrent operations. This was crucial due to the simultaneous interactions by multiple users, necessitating data integrity. Addressing these issues enhanced my understanding of Java concurrency and improved my problem-solving skills.
+
 
 <!-- CONTACT -->
 ## Contact
 
 Email - shyke0611@gmail.com
 
-Project Link: [https://github.com/shk0611/Car_Rental_System_Project.git](https://github.com/github_username/repo_name)
+Project Link - [https://github.com/shk0611/Car_Rental_System_Project.git](https://github.com/github_username/repo_name)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * [othneildrew - Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Maven Repository](https://mvnrepository.com/)
-* [Img Shields](https://shields.io)
 * [Font Awesome](https://fontawesome.com)
 * [Font Awesome Cheatsheet](https://fontawesome.com/v4/cheatsheet/)
 
