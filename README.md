@@ -56,9 +56,9 @@ The Car Rental Booking and Management System is a comprehensive application desi
 #### Key Features:
 
  <h6>User Interface (UI) Applications:</h6>
- ul>
-  <li>Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.</li>
- </ul>
+  <ul>
+    <li>Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.</li>
+  </ul>
 
 <h6>MYSQL Database:</h6>
 <ul>
