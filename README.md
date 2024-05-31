@@ -48,49 +48,35 @@
 
 The Car Rental Booking and Management System is a comprehensive application designed to streamline the management of car rentals, bookings, clients, and insurance options. This system is built using JavaFX and CSS for the user interface and MySQL for the database backend, providing a robust and scalable solution.
 
-<div style="text-align: center;">
-  <a href="project_images/findVehicles.png">
-    <img src="project_images/findVehicles.png" alt="Find Vehicle Page" width="45%" style="margin-right: 10px;">
-  </a>
-  <a href="project_images/manageVehicles.png">
-    <img src="project_images/manageVehicles.png" alt="Manage Vehicle Page" width="45%" style="margin-left: 10px;">
-  </a>
-</div>
-
-
+[![find Vehicle Page][findVehicles]](project_images/findVehicles.png)
+[![Manage Vehicle Page][manageVehicles]](project_images/manageVehicles.png)
 
 #### Key Features:
 
- <span style="font-size: 1em; font-weight: bold;">User Interface (UI) Applications:</span>
-<ul>
-  <li>Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.</li>
-</ul>
 
-<span style="font-size: 1em; font-weight: bold;">MYSQL Database:</span>
-<ul>
-  <li>Store and retrieve data reliably with support for transactions.</li>
-</ul>
+  <li>User Interface (UI) Applications:  Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.</li>
 
-<span style="font-size: 1em; font-weight: bold;">Management:</span>
-<ul>
-  <li>Add, update, delete vehicle, client, reservation information.</li>
-  <li>Display details with dynamic updates.</li>
-</ul>
 
-<span style="font-size: 1em; font-weight: bold;">Signup/Login mechansim</span>
-<ul>
-  <li>Validates users with their credentials</li>
-</ul>
 
-<span style="font-size: 1em; font-weight: bold;">Thread Safety and Preventing Race Conditions:</span>
-<ul>
-  <li>Synchronized methods, ExecutorService, Transaction management, Scheduled tasks.</li>
-</ul>
+  <li>MYSQL Database:  Store and retrieve data reliably with support for transactions.</li>
 
-<span style="font-size: 1em; font-weight: bold;">Design Patterns:</span>
-<ul>
-  <li>MVC, DAO, Strategy.</li>
-</ul>
+
+
+  <li>Management:  Add, update, delete vehicle, client, reservation information.</li>
+
+
+
+
+  <li>Signup/Login mechansim:  Validates users with their credentials</li>
+
+
+
+  <li>Thread Safety and Preventing Race Conditions:  Synchronized methods, ExecutorService, Transaction management, Scheduled tasks.</li>
+
+
+
+  <li>Design Patterns:  MVC, DAO, Strategy.</li>
+<
 
 
 #### Built With
