@@ -97,27 +97,64 @@ To get a local copy up and running, follow these simple steps.
 You will need the following software installed:
 * Java 11
 * Maven
-* MySQL
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install Maven dependencies
-   ```sh
-   mvn install
-   ```
-3. Set up the database
-   ```sh
-   mysql -u root -p < create_table.sql
-   mysql -u root -p < rental_project_schema.sql
-   ```
-4. Run the application
-   ```sh
-   mvn javafx:run
-   ```
+1. **Clone the repo**:
+   - **Windows**: Open Command Prompt and run:
+     ```sh
+     git clone https://github.com/github_username/repo_name.git
+     ```
+   - **MacOS**: Open Terminal and run:
+     ```sh
+     git clone https://github.com/github_username/repo_name.git
+     ```
+   - **Linux**: Open Terminal and run:
+     ```sh
+     git clone https://github.com/github_username/repo_name.git
+     ```
+
+2. **Navigate to the project directory**:
+   - **Windows**:
+     ```sh
+     cd repo_name
+     ```
+   - **MacOS**:
+     ```sh
+     cd repo_name
+     ```
+   - **Linux**:
+     ```sh
+     cd repo_name
+     ```
+
+3. **Install Maven dependencies**:
+   - **Windows**:
+     ```sh
+     mvn install
+     ```
+   - **MacOS**:
+     ```sh
+     mvn install
+     ```
+   - **Linux**:
+     ```sh
+     mvn install
+     ```
+
+4. **Run the application**:
+   - **Windows**:
+     ```sh
+     mvn javafx:run
+     ```
+   - **MacOS**:
+     ```sh
+     mvn javafx:run
+     ```
+  - **Linux**:
+     ```sh
+     mvn javafx:run
+     ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
