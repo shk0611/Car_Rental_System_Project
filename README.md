@@ -151,7 +151,7 @@ You will need the following software installed:
      ```sh
      mvn javafx:run
      ```
-  - **Linux**:
+   - **Linux**:
      ```sh
      mvn javafx:run
      ```
@@ -190,7 +190,7 @@ A major challenge was ensuring thread safety and preventing race conditions, req
 
 Email - shyke0611@gmail.com
 
-Project Link - [https://github.com/shk0611/Car_Rental_System_Project.git](https://github.com/github_username/repo_name)
+Project Link - [https://github.com/shk0611/Car_Rental_System_Project.git](https://github.com/shk0611/Car_Rental_System_Project.git)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
