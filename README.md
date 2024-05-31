@@ -46,12 +46,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div>
-  <img src="project_images/manageVehicles.png" alt="Manage Vehicle Page" width="45%" style="margin-right: 10px;">
-  <img src="project_images/findVehicles.png" alt="Find Vehicles Page" width="45%" style="margin-left: 20px;">
-</div>
-
 The Car Rental Booking and Management System is a comprehensive application designed to streamline the management of car rentals, bookings, clients, and insurance options. This system is built using JavaFX and CSS for the user interface and MySQL for the database backend, providing a robust and scalable solution.
+
+[![Manage Vehicle Page][manageVehicles]](project_images/manageVehicles.png)
+[![Manage Vehicle Page][findVehicles]](project_images/findVehicles.png)
 
 #### Key Features:
 
