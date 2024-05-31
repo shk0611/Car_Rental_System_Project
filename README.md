@@ -55,21 +55,38 @@ The Car Rental Booking and Management System is a comprehensive application desi
 
 #### Key Features:
 
- <h6>User Interface (UI) Applications:</h6>
-  * Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.
+ #### Key Features:
 
- <h6>MYSQL Database:</h6>
-  * Store and retrieve data reliably with support for transactions.
+<h6>User Interface (UI) Applications:</h6>
+<ul>
+  <li>Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.</li>
+</ul>
 
- <h6>Management:</h6>
-  * Add, Update, Delete vehicle, client, reservation information
-  * Display details with dynamic updates
+<h6>MYSQL Database:</h6>
+<ul>
+  <li>Store and retrieve data reliably with support for transactions.</li>
+</ul>
 
- <h6>Thread Safety and Preventing Race Conditions:</h6>
-  * Synchronized methods, ExecutorService, Transaction management, Scheduled tasks
+<h6>Management:</h6>
+<ul>
+  <li>Add, update, delete vehicle, client, reservation information.</li>
+  <li>Display details with dynamic updates.</li>
+</ul>
 
- <h6>Design Patterns:</h6>
-  * <h6>MVC, DAO, Strategy<h6>
+<h6>Thread Safety and Preventing Race Conditions:</h6>
+<ul>
+  <li>Synchronized methods, ExecutorService for concurrency control.</li>
+  <li>Transaction management for atomicity and consistency.</li>
+  <li>Scheduled tasks for periodic operations such as booking checks.</li>
+</ul>
+
+<h6>Design Patterns:</h6>
+<ul>
+  <li>Model-View-Controller (MVC): Separation of concerns for better maintainability.</li>
+  <li>Data Access Object (DAO): Encapsulation of database access logic.</li>
+  <li>Strategy Pattern: Flexible insurance options and coverage calculations.</li>
+</ul>
+
 
 #### Built With
 
