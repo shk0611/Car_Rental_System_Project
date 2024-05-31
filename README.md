@@ -7,9 +7,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Car Rental Booking and Management System</h3>
 
@@ -53,33 +50,7 @@
 
 The Car Rental Booking and Management System is a comprehensive application designed to streamline the management of car rentals, bookings, clients, and insurance options. This system is built using JavaFX and CSS for the user interface and MySQL for the database backend, providing a robust and scalable solution.
 
-#### Key Features:
 
- <h6>User Interface (UI) Applications:</h6>
-  <ul>
-    <li>Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.</li>
-  </ul>
-
-<h6>MYSQL Database:</h6>
-<ul>
-  <li>Store and retrieve data reliably with support for transactions.</li>
-</ul>
-
-<h6>Management:</h6>
-<ul>
-  <li>Add, update, delete vehicle, client, reservation information.</li>
-  <li>Display details with dynamic updates.</li>
-</ul>
-
-<h6>Thread Safety and Preventing Race Conditions:</h6>
-<ul>
-  <li>Synchronized methods, ExecutorService, Transaction management, Scheduled tasks</li>
-</ul>
-
-<h6>Design Patterns:</h6>
-<ul>
-  <li>MVC, DAO, Strategy</li>
-</ul>
 
 
 #### Built With
@@ -142,7 +113,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Email - shyke0611@gmail.com
 
-Project Link: [https://github.com/shyke0611/Car_Rental_Project.git](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/shk0611/Car_Rental_System_Project.git](https://github.com/github_username/repo_name)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
