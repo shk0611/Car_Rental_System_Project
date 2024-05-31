@@ -60,20 +60,20 @@ The Car Rental Booking and Management System is a comprehensive application desi
 
 #### Key Features:
 
-###### User Interface (UI) Applications:
+ ###### User Interface (UI) Applications:
   * Modern UI with JavaFX, enhanced with CSS for styling and FXML for layout.
 
-###### MYSQL Database:
+ ###### MYSQL Database:
   * Store and retrieve data reliably with support for transactions.
 
-###### Management:
+ ###### Management:
   * Add, Update, Delete vehicle, client, reservation information
-  * Display details ith dynamic updates
+  * Display details with dynamic updates
 
-###### Thread Safety and Preventing Race Conditions:
+ ###### Thread Safety and Preventing Race Conditions:
   * Synchronized methods, ExecutorService, Transaction management, Scheduled tasks
 
-###### Design Patterns:
+ ###### Design Patterns:
   * MVC, DAO, Strategy
 
 #### Built With
